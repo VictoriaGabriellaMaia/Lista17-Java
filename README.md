@@ -1,4 +1,6 @@
-# 05-java-thread
+# Lista17-Java
+
+## Java - Thread
 
 ## Compilação:
 ```bash
